@@ -1,5 +1,3 @@
-This is a good Week 01 submission template. Since you’re on the **VLSI track**, I’d fill in the student details and make the AI declaration slightly more professional:
-
 # Week 01 - The AI Landscape
 
 ## Student Information
@@ -33,10 +31,8 @@ This is a good Week 01 submission template. Since you’re on the **VLSI track**
 
 ## AI Usage Declaration
 
-* **AI Tools Used:** ChatGPT, Gemini, Claude
+* **AI Tools Used:** ChatGPT, Gemini
 * **Used For:** Explanation, structural comparison, brainstorming, and template formatting.
 
 I used AI tools as learning and productivity aids for explanations, comparisons, brainstorming, and organizing the submission. I independently reviewed and verified important factual and technical claims before submitting this work.
-
-If your exact VLSI specialization is known (for example **Design, Verification/DV, DFT, Physical Design/PD, or Analog**), replace the track line with that specific specialization rather than leaving all options.
 
