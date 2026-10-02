@@ -1,21 +1,16 @@
 # Week 01 AI Engineering Journal
 
-**Date:** Friday, 2 October 2026  
-**Track:** Design / DV / DFT / PD / Analog / AI Literacy Layer  
+**Date:** Friday, 2 October 2026
+**Track:** VLSI – Design / DV / DFT / PD / Analog / AI Literacy Layer
 
 ## Weekly Reflection Table
 
-| Field | Your Notes |
-| :--- | :--- |
-| **What I learned that was genuinely new** | The intuitive mechanism of next-token prediction and why language fluency does not guarantee factual accuracy. |
-| **One AI output I initially trusted** | A generated summary explanation of agentic workflows. |
-| **How I verified it** | Cross-referenced against technical documentation on LangChain architecture and NIST frameworks. |
-| **What the AI did well** | Synthesizing complex concepts into concise overview bullet points and generating clear structural templates. |
-| **What the AI could not be trusted to decide** | Ground-truth factual accuracy without external documentation verification. |
-| **One question I still have** | How agent memory state is maintained across long multi-turn execution loops. |
-| **What I will do differently next week** | Execute my 7-step personal verification protocol immediately rather than relying on initial read-throughs. |
-
-## Notes & Takeaways
-* Established my public GitHub repository structure (`vlsiguru-ai-literacy-<name>`).
-* Initiated Python Runway practice with CS50P Week 0 (Functions & Variables).
-* Completed all core assessment tasks using the A-E-V-R framework.
+| Field                                          | My Notes                                                                                                                                                                                |
+| :--------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **What I learned that was genuinely new**      | I understood how an LLM generates a response by predicting the next token step by step. I also learned that an answer can sound very confident and still contain incorrect information. |
+| **One AI output I initially trusted**          | I initially accepted an AI-generated explanation of how AI agents work and how they perform tasks using different tools.                                                                |
+| **How I verified it**                          | I compared the explanation with technical documentation and references related to agent workflows and responsible AI practices.                                                         |
+| **What the AI did well**                       | AI was useful for breaking down difficult concepts, summarizing information, and organizing ideas into clear points and structures.                                                     |
+| **What the AI could not be trusted to decide** | I should not rely on AI alone to confirm whether technical or factual information is completely correct. Important claims need to be checked using reliable sources.                    |
+| **One question I still have**                  | I want to understand better how an AI agent stores and updates its memory when it performs a task over several steps or multiple interactions.                                          |
+| **What I will do differently next week**       | I will verify important AI-generated information earlier instead of                                                                                                                     |
