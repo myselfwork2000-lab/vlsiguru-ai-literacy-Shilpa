@@ -1,7 +1,7 @@
 # Week 01 AI Engineering Journal
 
 **Date:** Friday, 2 October 2026
-**Track:** VLSI – Design / DV / DFT / PD / Analog / AI Literacy Layer
+**Track:** VLSI – DFT
 
 ## Weekly Reflection Table
 
